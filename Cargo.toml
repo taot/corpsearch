@@ -9,3 +9,5 @@ tantivy = "0.22.0"
 env_logger = "0.11.8"
 dom_smoothie = "0.10.0"
 anyhow = "1.0.97"
+rouille = "3.6.2"
+serde = { version = "1.0.219", features = ["derive"] }

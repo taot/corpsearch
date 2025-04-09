@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "corpsearch",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
